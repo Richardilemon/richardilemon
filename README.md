@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richardilemon
+- 👋 Hi, I’m Richard Ilupeju
 - 👀 I’m interested in Software and Data Engineering
 - 🌱 I’m currently learning Golang and Data Engineering
 - 💞️ I’m looking to collaborate on anything that can make me a better dev
